@@ -1,0 +1,26 @@
+.add-user-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1c4980;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .user-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-table th, .user-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .user-table th {
+    background-color: #383838;
+    color: white;
+  }
+  

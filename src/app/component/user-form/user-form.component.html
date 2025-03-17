@@ -1,0 +1,13 @@
+
+<div>
+  <form [formGroup]="userForm" (ngSubmit)="submit()">
+    <input formControlName="name" placeholder="Name">
+    <input formControlName="email" placeholder="Email" type="email">
+    <select formControlName="role"  >
+      <option value="Admin">Admin</option>
+      <option value="Editor">Editor</option>
+      <option value="Viewer">Viewer</option>
+    </select>
+    <button type="submit">Add User</button>
+  </form>
+</div>
