@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdashboard_project=self.webpackChunkdashboard_project||[]).push([[894],{2894:(d,a,t)=>{t.r(a),t.d(a,{UserFormModule:()=>u});var r=t(177),n=t(4341),o=t(8699);let u=(()=>{class s{static{this.\u0275fac=function(c){return new(c||s)}}static{this.\u0275mod=o.$C({type:s})}static{this.\u0275inj=o.G2t({imports:[r.MD,n.X1]})}}return s})()}}]);
